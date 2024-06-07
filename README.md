@@ -26,4 +26,6 @@ RA: 2223103399
 
 Link para o site com o apk: https://epicclicker.netlify.app/
 
+Link vídeo youtube: https://www.youtube.com/watch?v=z6rfO-8Jm0Y
+
 Obs: No site também consta o vídeo institucional e a documentação da empresa.
